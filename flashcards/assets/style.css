@@ -24,5 +24,10 @@ footer p{
 }
 .cartao{
     margin: 1rem 1 rem;
+    background-color: darkseagreen;
+    height:20rem;
+    flex-grow: 1;
+    flex-basis: calc(33% - 6rem);
+    
 }
 
