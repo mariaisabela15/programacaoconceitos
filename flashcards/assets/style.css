@@ -1,11 +1,11 @@
 body {
-    background-color: rgba(233, 156, 195, 0.89);
+    background-color: rgba(255, 0, 128, 0.89);
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 footer{
-    background-color: deeppink;
-    color:aliceblue;
+    background-color: rgb(253, 205, 231);
+    color:rgb(30, 255, 0);
     position: fixed;
     bottom: 0%;
     width: 100%;
@@ -23,8 +23,8 @@ footer p{
 
 }
 .cartao{
-    margin: 1rem 1 rem;
-    background-color: darkseagreen;
+    margin: 1rem 1rem;
+    background-color: rgb(70, 247, 0);
     height:20rem;
     flex-grow: 1;
     flex-basis: calc(33% - 6rem);
