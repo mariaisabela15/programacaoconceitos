@@ -30,12 +30,12 @@ footer p{
     flex-basis: calc(33% - 6rem);
     
 }
-.cartao_conteudo{
+.cartao__conteudo{
     text-align: center;
     background-color: rgb(112, 199, 199);
     height: 100%;
 }
-.cartao_conteudo h3{
+.cartao__conteudo h3{
   background-color:rgba(254, 242, 190, 0.89) ;
   text-align: left;
   padding: 0.2rem;
