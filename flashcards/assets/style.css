@@ -32,7 +32,7 @@ footer p{
 }
 .cartao_conteudo {
     text-align: center;
-    background-color: azure;
+    background-color: rgb(112, 199, 199);
     height: 100%;
 }
 .cartao_conteudo h3 {
